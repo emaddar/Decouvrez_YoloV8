@@ -1,0 +1,14 @@
+path : /home/emad/Documents/yolov8/data
+train: /home/emad/Documents/yolov8/data/train/images
+val: /home/emad/Documents/yolov8/data/valid/images
+test: /home/emad/Documents/yolov8/data/test/images
+
+nc: 4
+names: ['device', 'live', 'photo', 'spoof']
+
+roboflow:
+  workspace: ekycface
+  project: weelive
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ekycface/weelive/dataset/4
