@@ -10,7 +10,7 @@ from streamlit_webrtc import (
     WebRtcMode,
     webrtc_streamer,
 )
-
+st.set_page_config(page_title="Computer vision", page_icon="🖥️")
 
 # Initialize the YOLOv5 model
 model = YOLO("models/yolov8s.pt")

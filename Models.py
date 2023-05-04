@@ -3,8 +3,9 @@ import streamlit as st
 def main_page():
     st.markdown("# Main page 🎈")
     st.sidebar.markdown("# Main page 🎈")
-st.set_page_config(layout="wide")
 
+
+st.set_page_config(page_title="Computer vision", page_icon="🖥️", layout="wide")
 
 st.markdown("""
 

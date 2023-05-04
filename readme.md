@@ -1,6 +1,6 @@
 # Object Detection App
 
-This is a Streamlit app for performing object detection on images and webcam streams using the YOLOv5 model.
+This is a Streamlit app for performing object detection on images and webcam streams using the YOLOv8 model.
 
 The aim of this project is to perform object detection on images and webcam streams to classify them as either `device`, `live`, `photo`, or `spoof`.
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ## Model
 
-The YOLOv5 model used for object detection can be found in the `models` directory. The `best_real_face_detection.pt` file is used for real face detection.
+The YOLOv8 model used for object detection can be found in the `models` directory. The `best_real_face_detection.pt` file is used for real face detection.
 
 ## License
 

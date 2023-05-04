@@ -13,7 +13,7 @@ from streamlit_webrtc import (
     webrtc_streamer,
 )
 
-st.set_page_config(page_title="My Streamlit App", page_icon=":guardsman:")
+st.set_page_config(page_title="Computer vision", page_icon="🖥️")
 
 # Initialize the YOLOv5 model
 model = YOLO("models/best_real_face_detection.pt")
