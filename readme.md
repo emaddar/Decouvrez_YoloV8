@@ -57,3 +57,6 @@ The YOLOv8 model used for object detection can be found in the `models` director
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+
+Me suivre sur LinkedIn : www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=emad-darwich
